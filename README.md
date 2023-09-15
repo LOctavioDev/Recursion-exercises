@@ -14,4 +14,4 @@ Este repositorio contiene una serie de ejercicios simples de programación en Py
 | Decimal a Octal             | Convierte un número decimal a octal utilizando recursión.    |
 | Numero decimal a Zn         | Calcula un número decimal a Zn utilizando recursión.    |
 
-![DATA STRUCTURE]([https://example.com/tu-imagen.png](https://mangusoft.com/wp-content/uploads/2020/11/recursion-icon-2865934_1280-768x768.png)https://mangusoft.com/wp-content/uploads/2020/11/recursion-icon-2865934_1280-768x768.png)
+![Ejemplo de recursión](https://mangusoft.com/wp-content/uploads/2020/11/recursion-icon-2865934_1280-768x768.png)
